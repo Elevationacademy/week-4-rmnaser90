@@ -24,7 +24,12 @@
       "name": "pepper",
       "count": 0.25,
       "unit": "teaspoons"
-    }
+    },
+    {
+        "name": "Garlic powder",
+        "count": 2,
+        "unit": "teaspoons"
+      }
   ],
   "directions": [
     "Add potatoes to a pot and cover with an inch of water.",
