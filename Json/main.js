@@ -48,13 +48,13 @@
 // console.log(recipe.ingredients.filter(i => i.name == "garlic powder")[0]) //should print 2
 
 
-let recipe= {
-"calories": 250,
-"healthy": true,
-"directions":[
-"Cut potatoes into half inch thick slices",
-"frie them"
-]
+let recipe = {
+    "calories": 250,
+    "healthy": true,
+    "directions": [
+        "Cut potatoes into half inch thick slices",
+        "frie them"
+    ]
 
 }
 
